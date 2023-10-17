@@ -1,0 +1,73 @@
+
+.Calcolater{
+    width: 33%;
+    height: 95vh;
+    border-radius: 17px;
+    border: 2px solid black;
+    background-color: black;
+    margin: auto;
+    margin-top: 20px;
+
+}
+
+.calsinput{
+    width: 90%;
+    margin: auto;
+    color: white;
+    margin-top: 40px;
+
+}
+
+.calsinput input{
+    width: 100%;
+    height: 100px;
+    background-color: rgb(0, 0, 0);
+    outline: none;
+    border: 2px solid rgb(165, 165, 165);
+    border-radius: 18px;
+    font-size: 30px;
+    text-align: right;
+    color: white;
+}
+.buttons{
+    margin-top: 60px;
+    margin-left: 30px;
+}
+
+.btn{
+    border: 1px solid rgb(95, 95, 95);
+    background-color: rgb(0, 0, 0);
+    color: white;
+    width: 18%;
+    margin-right: 15px;
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.x2{
+    font-size: 14px;
+}
+
+
+.btn:hover{
+    cursor: pointer;
+}
+
+.btn:active{
+    background-color: rgb(124, 124, 124);
+}
+
+.del:active{
+    background-color: red;
+}
+
+
+
+.multiply{
+    width: 28%;
+    font-size: 22px;
+    background-color: blueviolet;
+}
